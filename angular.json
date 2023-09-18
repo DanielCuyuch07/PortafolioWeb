@@ -21,8 +21,22 @@
             ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
-              "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/assets/img/img-Foto-Perfi2-removebg-preview.png",
+              "src/assets/img/img-Foto-Perfil-removebg-preview.png",
+              "src/assets/img/img-main-p1.png",
+              "src/assets/img/img-habilidades-angular2.png",
+              "src/downloadfolderblank_99350.ico",
+              "src/bootstrap.ico",
+              "src/html.ico",
+              "src/css.ico",
+              "src/java.ico",
+              "src/node.js.ico",
+              "src/git.ico",
+              "src/sqlserver.ico",
+              "src/mysql.ico",
+              "src/javaScript.ico"
+
             ],
             "styles": [
               "src/styles.css",
@@ -38,7 +52,7 @@
                 {
                   "type": "initial",
                   "maximumWarning": "500kb",
-                  "maximumError": "1mb"
+                  "maximumError": "4mb"
                 },
                 {
                   "type": "anyComponentStyle",
